@@ -50,6 +50,7 @@ export const Btn = styled.button`
     background-color: #e8e8e8;
     color: #009d14;
     border: #009d14 solid 1px;
+    cursor: pointer;
   }
 `;
 
