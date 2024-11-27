@@ -42,12 +42,10 @@ export default function App() {
       <S.H1>Calculadora</S.H1>
       {/* onChange pra capturar o que o usuário está digitando */}
       <S.Input
-        type="number"
         placeholder="Insira um número"
         onChange={capturandoPrimeiroValor}
       />
       <S.Input
-        type="number"
         placeholder="Insira um número"
         onChange={capturandoSegundoValor}
       />
