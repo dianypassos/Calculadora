@@ -1,5 +1,5 @@
 import { useState } from "react";
-import * as S from "./style";
+import * as S from "./Style";
 //importe tudo como S de nomedoarquivo
 
 export default function App() {
