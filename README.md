@@ -1,5 +1,5 @@
 # Calculadora com React
-Este é um projeto de uma calculadora simples desenvolvida utilizando React. O objetivo deste projeto é criar uma interface de usuário intuitiva e funcional para realizar operações básicas como soma, subtração, multiplicação e divisão, além de implementar a troca entre modo claro e modo escuro.
+Este é um projeto de uma calculadora simples desenvolvida utilizando React. O objetivo deste projeto é criar uma interface de usuário intuitiva e funcional para realizar operações básicas como soma, subtração, multiplicação e divisão.
 
 # Funcionalidades
 
